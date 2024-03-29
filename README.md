@@ -20,5 +20,6 @@ I've developed using tools like Django, Python, SQl databases (PostgreSQL), and 
 <br />
 
 ---
-- 🌱 I’m currently learning in http://ec2-3-142-247-54.us-east-2.compute.amazonaws.com
+- 🌱 I’m currently learning at http://ec2-3-142-247-54.us-east-2.compute.amazonaws.com
+- 💭 l.ancavilpino@icloud.com
 
